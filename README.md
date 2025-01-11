@@ -26,7 +26,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://recipe-responsive-main-page.netlify.app/]
 
 ## My process
 
@@ -74,4 +74,3 @@ I'll continue practice more using semantic HTML elements and implementing the Mo
 I encountered a problem in giving the gap between numbers and text in the list, but thanks to this person's code I solved it.
 
 - GitHub - [mschichuang](https://github.com/mschichuang/Recipe-page)
-"# recipe-page-main" 
