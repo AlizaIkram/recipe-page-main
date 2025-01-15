@@ -14,14 +14,12 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
 
-[Desktop design](./screenshots/desktop.png)
-[Mobile design](./screenshots/mobile.png)
+![Desktop design](./screenshots/desktop.png)
+![Mobile design](./screenshots/mobile.png)
 
 ### Links
 
